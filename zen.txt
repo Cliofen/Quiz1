@@ -1,0 +1,37 @@
+Hermoso es mejor que feo.
+
+Explícito es mejor que implícito.
+
+Simple es mejor que complejo.
+
+Complejo es mejor que complicado.
+
+Plano es mejor que anidado.
+
+Escaso es mejor que denso.
+
+Cuenta la legibilidad.
+
+Los casos especiales no son lo suficientemente especial como para romper las reglas.
+
+Aunque sentido práctico supera pureza.
+
+Los errores nunca debe pasar en silencio.
+
+A menos que explícitamente silenciados.
+
+Ante la ambigüedad, rechaza la tentación de adivinar.
+
+Debería haber una - y preferiblemente sólo una - manera obvia de hacerlo.
+
+Aunque esa manera puede no ser obvia al principio a menos que seas holandés.
+
+Ahora es mejor que nunca.
+
+Aunque nunca es a menudo mejor que la * justo * ahora.
+
+Si la implementación es difícil de explicar, es una mala idea.
+
+Si la implementación es fácil de explicar, puede ser una buena idea.
+
+Namespaces son una gran idea de fanfarria  - Vamos a hacer más de esos!
